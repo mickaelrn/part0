@@ -8,5 +8,3 @@ browser->server: HTTP GET https://studies.cs.helsinki.fi/exampleapp/main.js
 server-->browser: main.js
 browser->server: HTTP GET https://studies.cs.helsinki.fi/exampleapp/data.json
 server-->browser: [{"content":"stan le sserafim","date":"2022-09-28T09:53:55.673Z"}, ...]
-
-test
